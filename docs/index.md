@@ -1,6 +1,6 @@
 # 👨‍💻 Mesfin
 
-![Profile](assets/profile.jpg){ width=160 style="border-radius: 50%; box-shadow: 0 6px 18px rgba(0,0,0,0.3);" }
+![Profile](assets/profile.jpg)
 
 ## Senior IT Professional | Data Center | Network | Systems
 
